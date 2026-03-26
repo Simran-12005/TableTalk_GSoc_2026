@@ -55,7 +55,7 @@ The system performs audio feature extraction, emotion classification, speech-to-
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 
 TableTalk_Project/
@@ -68,7 +68,7 @@ TableTalk_Project/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Open the notebook:
 
