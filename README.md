@@ -18,7 +18,7 @@ The system performs audio feature extraction, emotion classification, speech-to-
   - Duration
 - Output stored in `features.csv`
 
----
+
 
 ###  Task 2: Narrative Tone Classification
 - Trained a Random Forest classifier
@@ -26,14 +26,14 @@ The system performs audio feature extraction, emotion classification, speech-to-
 - Output: emotion labels (calm, happy, angry, etc.)
 - Achieved ~60% accuracy
 
----
+
 
 ###  Task 3: Speech-to-Text Transcription
 - Used OpenAI Whisper model
 - Transcribed multiple audio recordings
 - Output stored in `transcriptions.csv`
 
----
+
 
 ###  Task 4: Narrative Audio Retrieval
 - Implemented query-based filtering system
@@ -43,7 +43,7 @@ The system performs audio feature extraction, emotion classification, speech-to-
   - Angry dialogue
 - Retrieves matching audio recordings using features
 
----
+
 
 ###  Storytelling Audio Analysis
 - Analyzed differences between storytelling narration and conversational speech
@@ -53,7 +53,7 @@ The system performs audio feature extraction, emotion classification, speech-to-
   - Pacing and pauses
   - Sentence structure
 
----
+
 
 ## Project Structure
 
@@ -66,7 +66,6 @@ TableTalk_Project/
 ├── README.md # Project documentation
 
 
----
 
 ##  How to Run
 
@@ -88,7 +87,7 @@ pip install librosa numpy pandas scikit-learn openai-whisper
 - Task 3 → Transcription
 - Task 4 → Retrieval
 
----
+
 
 ##  Outputs
 
@@ -96,7 +95,7 @@ pip install librosa numpy pandas scikit-learn openai-whisper
 - `transcriptions.csv` → generated speech transcripts
 - Model accuracy and retrieval results displayed in notebook
 
----
+
 
 ## Technologies Used
 
@@ -107,7 +106,7 @@ pip install librosa numpy pandas scikit-learn openai-whisper
 - scikit-learn
 - OpenAI Whisper
 
----
+
 
 ##  Dataset
 
