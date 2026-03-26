@@ -56,9 +56,6 @@ The system performs audio feature extraction, emotion classification, speech-to-
 
 
 ## Project Structure
-
-
-TableTalk_Project/
 │
 ├── TableTalk_Project.ipynb # Main notebook (all tasks)
 ├── features.csv # Extracted audio features
@@ -110,7 +107,7 @@ pip install librosa numpy pandas scikit-learn openai-whisper
 
 ##  Dataset
 
-RAVDESS Emotional Speech Dataset (subset used)
+RAVDESS Emotional Speech Dataset 
 
 ---
 
