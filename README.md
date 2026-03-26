@@ -55,7 +55,10 @@ The system performs audio feature extraction, emotion classification, speech-to-
 
 
 
-## Project Structure
+## 📂 Project Structure
+
+
+TableTalk_Project/
 │
 ├── TableTalk_Project.ipynb # Main notebook (all tasks)
 ├── features.csv # Extracted audio features
